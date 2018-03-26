@@ -6,6 +6,12 @@
          <RomUrl id="rom" title="" description="">https://sourceforge.net/projects/elixiros/files/Official/mido/elixir-1.0-OFFICIAL-mido-20180320.zip/download</RomUrl>
          <ChangelogUrl id="changelog" title="" description="">https://sourceforge.net/projects/elixiros/files/Official/mido/elixir_mido-Changelog.txt/download</ChangelogUrl>
          <PaypalUrl id="donation" title="" description="">https://i.imgur.com/yFJvqRs.jpg</PaypalUrl>
-      </mido>
+      </mido>        
+      <kenzo>
+         <Filename>elixir-1.0-OFFICIAL-kenzo-20180326.zip</Filename>
+         <RomUrl id="rom" title="" description="">https://androidfilehost.com/?fid=890129502657593779</RomUrl>
+         <ChangelogUrl id="changelog" title="" description="">https://androidfilehost.com/?fid=890129502657593789</ChangelogUrl>
+         <PaypalUrl id="donation" title="" description="">https://i.imgur.com/yFJvqRs.jpg</PaypalUrl>
+      </kenzo>
    </Stable>
 </SlimOTA>
